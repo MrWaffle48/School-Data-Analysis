@@ -1,0 +1,20 @@
+1,George Washington,ACC,3.5
+2,John Adams,BA,3.8
+3,Thomas Jefferson,BA,2.9
+4,James Madison,IS,2.4
+5,James Monroe,IS,3.4
+6,John Quincy Adams,ACC,2.9
+7,Andrew Jackson,ACC,3.2
+8,Martin Van_Buren,CS,3.1
+9,William H. Harrison,IS,3.5
+10,John Tyler,IS,2.8
+11,James K. Polk,IS,2.9
+12,Zachary Taylor,CS,3.2
+13,Millard Fillmore,ACC,2.5
+14,Franklin Pierce,CS,3.3
+15,James Buchanan,BA,3.2
+16,Abraham Lincoln,CS,2.7
+17,Andrew Johnson,IS,3.6
+18,Ulysses S. Grant,CS,3.4
+19,Rutherford B. Hayes,CS,3.2
+20,James A. Garfield,CS,3.6
